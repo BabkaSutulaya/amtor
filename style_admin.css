@@ -1,0 +1,20 @@
+h1{
+    text-align: center;
+}
+h2{
+    margin-left: 3em;
+    margin-top: 1.5em;
+}
+table{
+    margin: 0 0 2em 7em;
+}
+th{
+    font-size: 18px;
+}
+td{
+    font-size: 15px;
+}
+td, th{
+    padding: 10px;
+    text-align: center;
+}
